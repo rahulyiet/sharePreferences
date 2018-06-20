@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">REGISTRATION FORM</string>
+    <string name="name">name</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="age">age</string>
+    <string name="enter_your_age">enter your age</string>
+    <string name="phone">phone</string>
+    <string name="enter_your_no">enter_your_no</string>
+    <string name="hi">hi</string>
+    <string name="hello">Hello</string>
+    <string name="bye">Bye</string>
+    <string name="button">button</string>
+
+</resources>
